@@ -162,4 +162,4 @@ Bluetooth, not USB. Enable it per game in the input tab.
 
 ---
 
-*Ryujinx Firmware · Updated 2026-10-25 · Shared under the MIT License*
+*Ryujinx Firmware · Updated 2026-10-26 · Shared under the MIT License*
